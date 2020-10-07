@@ -393,6 +393,9 @@ h6 {
 }
 .desc p {
   line-height: 1.5;
+  width: 30vw;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 .info h3,
 .info h6 {
